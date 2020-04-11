@@ -8,7 +8,7 @@
 
 Used primarily for...
 
-Example
+<strong>Example</strong>
 <input type="text">
 **_Code_**
 
